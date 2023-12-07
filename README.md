@@ -1,3 +1,3 @@
 # static-site-01
 <br>
-#Author Ridoy Rko
+# Author: Ridoy Rko
